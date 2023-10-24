@@ -27,7 +27,7 @@
                              VerticalOptions="Center">
             <ImageButton Source="numbers.png"
                          Aspect="AspectFit"
-                         HeightRequest="150"
+                         HeightRequest="120"
                          CommandParameter="Numbers"
                          Clicked="ImageButton_Clicked"/>
             <Label Text="Nunbers"
@@ -42,7 +42,7 @@
                          VerticalOptions="Center">
                 <ImageButton Source="abc.png"
                      Aspect="AspectFit"
-                     HeightRequest="150"
+                     HeightRequest="120"
                      CommandParameter="Letters"
                      Clicked="ImageButton_Clicked"/>
                 <Label Text="Letters"
@@ -57,7 +57,7 @@
                          VerticalOptions="Center">
                 <ImageButton Source="shapes.png"
                      Aspect="AspectFit"
-                     HeightRequest="150"
+                     HeightRequest="120"
                      CommandParameter="Shapes"
                      Clicked="ImageButton_Clicked"/>
                 <Label Text="Shapes"
@@ -72,7 +72,7 @@
                          VerticalOptions="Center">
                 <ImageButton Source="color.png"
                      Aspect="AspectFit"
-                     HeightRequest="150"
+                     HeightRequest="120"
                      CommandParameter="Colors"
                      Clicked="ImageButton_Clicked"/>
                 <Label Text="Colors"
@@ -87,7 +87,7 @@
                  VerticalOptions="Center">
                 <ImageButton Source="fruits.png"
              Aspect="AspectFit"
-             HeightRequest="150"
+             HeightRequest="120"
              CommandParameter="Fruits"
              Clicked="ImageButton_Clicked"/>
                 <Label Text="Fruits"
@@ -102,7 +102,7 @@
                  VerticalOptions="Center">
                 <ImageButton Source="animal.png"
              Aspect="AspectFit"
-             HeightRequest="150"
+             HeightRequest="120"
              CommandParameter="Animals"
              Clicked="ImageButton_Clicked"/>
                 <Label Text="Animals"
