@@ -73,7 +73,7 @@
                 <ImageButton Source="color.png"
                      Aspect="AspectFit"
                      HeightRequest="150"
-                     CommandParameter="colors"
+                     CommandParameter="Colors"
                      Clicked="ImageButton_Clicked"/>
                 <Label Text="Colors"
                HorizontalOptions="Center"/>
